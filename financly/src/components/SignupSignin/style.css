@@ -1,0 +1,28 @@
+.login-wrapper{
+    width:70%;
+    max-width: 450px;
+    height: auto;
+    border-radius: 8px;
+    padding:20px;
+    box-shadow: 5px 0px 25px rgb(64, 83, 255);
+    
+    
+}
+.signup-heading{
+    text-align: center;
+    font-size:18px ;
+}
+.Financly{
+    font-size: 21px;
+    color: #2970ff;
+    font-weight: 500px;
+}
+.OrText{
+    text-align: center;
+    font-size: 16px;
+}
+.choice{
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}

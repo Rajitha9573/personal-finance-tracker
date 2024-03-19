@@ -1,0 +1,21 @@
+.label{
+    margin-bottom: 5px;
+    
+}
+
+.inputBox{
+    border-width: 0;
+    border-bottom-width: 1px;
+    width: 100%;
+    font-size: 17px;
+    padding:6px 0px;
+
+    
+}
+.inputBox::placeholder{
+    color:rgb(177, 175, 175);
+}
+
+.inputBox:focus{
+    outline: none;
+}
