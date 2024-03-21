@@ -1,0 +1,24 @@
+.rowCard{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* width:98%; */
+    padding: 16px;
+    margin:10px auto;
+    flex-wrap: wrap;
+    gap:16px;
+}
+.myCards{
+    min-width: 430px;
+    box-shadow: 5px 0px 25px rgb(127, 127, 128);
+    
+}
+.myCards p{
+    margin: 0;
+}
+.ant-card-head-title{
+    font-weight: 600px;
+    font-size: large;
+    margin: 0;
+    
+}
